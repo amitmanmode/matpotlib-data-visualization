@@ -1,11 +1,14 @@
 import matplotlib.pyplot as plt
 
+
 # Dataset
 students = ["Amit", "Ravi", "Riya", "Raj", "Priya"]
+
 
 math_marks = [85, 78, 90, 72, 88]
 science_marks = [80, 75, 92, 70, 85]
 study_hours = [5,4,6,3,5]
+
 
 # 1️⃣ Line Graph
 plt.figure()
